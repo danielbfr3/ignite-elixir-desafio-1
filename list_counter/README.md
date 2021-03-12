@@ -1,4 +1,4 @@
-# ListCounter
+# ListLength
 
 **TODO: Add description**
 
